@@ -14,7 +14,7 @@ This plugin creates a new object that is available in development to see what sc
 - `script_handles` - an array of just the script handles
 - `style_handles` - an array of just the style handles
 
-### methods:
+#### methods:
 - `getScript(handle)` - takes a handle and looks up the load data for that script
 - `getStyle(handle)` - takes a handle and looks up the load data for that style
 - `getScriptHandles()` - returns `script_handles`
