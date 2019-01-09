@@ -1,0 +1,19 @@
+{
+    "name": "dimezilla/dimezilla-scripting-dev-tools",
+    "description": "A Wordpress Plugin for Helping Develop Wordpress 5.0 scripts",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dimezilla",
+            "email": "diamond.joshh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dimezilla_Scripting_Dev_Tools\\": "src/"
+        }
+    }
+}
